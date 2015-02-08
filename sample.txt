@@ -2,9 +2,18 @@ test
 test
 test
 
+<<<<<<< HEAD
 body {
   background-coler: #fff;
   background-image: url(bg.gif);
   background-repeat: repeat-x;
   background-position: 0px -10px;
 }
+=======
+
+#header {
+  height: 60px;
+  background: #33cc00;
+  }
+  
+>>>>>>> origin/master
